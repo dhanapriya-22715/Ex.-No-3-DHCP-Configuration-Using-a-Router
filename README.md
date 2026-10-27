@@ -64,8 +64,9 @@ Router(dhcp-config)# exit<br>
 ________________________________________
 # Output (Screenshots)
 •	DHCP IP configuration shown in PC0 and PC1<br>
-<img width="1917" height="1138" alt="image" src="https://github.com/user-attachments/assets/16455dc4-c58e-4474-8a11-46912c6636fc" />
-<img width="1917" height="1135" alt="image" src="https://github.com/user-attachments/assets/5aeb1d37-f24b-4300-9dbc-1930b70cb0e0" />
+<img width="1917" height="1140" alt="image" src="https://github.com/user-attachments/assets/87ec19b2-88f5-48be-b78f-8bdaff7e7550" />
+
+<img width="1917" height="1113" alt="image" src="https://github.com/user-attachments/assets/5e8a2021-e41c-436a-8091-f94a10df7ba7" />
 
 •	Router configuration screen<br>
 <img width="898" height="897" alt="image" src="https://github.com/user-attachments/assets/c6264c6d-0ba7-4c10-bd51-d6540a3f24ec" />
