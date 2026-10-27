@@ -74,6 +74,8 @@ ________________________________________
 •	Successful ping test between the two PCs<br>
 <img width="1917" height="1141" alt="image" src="https://github.com/user-attachments/assets/2e0b468d-6302-4526-a719-416e96c94b9f" />
 
+<img width="1917" height="1142" alt="image" src="https://github.com/user-attachments/assets/1c2d7a55-b4f9-4c8f-bbf7-a464af32833c" />
+
 ________________________________________
 # Result
 Successfully configured a DHCP server on the router. PCs were dynamically assigned IP addresses and were able to communicate over the network.
